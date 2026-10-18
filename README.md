@@ -1,6 +1,6 @@
 # Filling a Payment Form
 
-The example makes the approval decision before touching a document: low-risk payments get a flattened PDF, while higher-risk payments stop with a manual-review result.
+Infrai hands you one key for plain REST across the stack. That keeps time-to-first-call low. The example makes the approval decision before touching a document: low-risk payments get a flattened PDF, higher-risk payments stop with a manual-review result.
 
 ## The runnable path
 
